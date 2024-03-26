@@ -2,7 +2,7 @@
 TouchDesigner component for the Hydra livecoding language made by Olivia Jack. Features custom parameter inputs, 60fps output, various display settings and more.
 
 ### What is Hydra?
-Set of tools for livecoding networked visuals. Inspired by analog modular synthesizers, these tools are an exploration into using streaming over the web for routing video sources and outputs in realtime. Created by Olivia Jack.
+Set of tools for livecoding networked visuals. Inspired by analog modular synthesizers, these tools are an exploration into using streaming over the web for routing video sources and outputs in realtime.
 
 https://hydra.ojack.xyz
 
